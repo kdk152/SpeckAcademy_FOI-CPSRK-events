@@ -81,6 +81,20 @@ body {
     right: 0;
 }
 
+.section-hero__heading {
+    color: #e4b43c;
+    line-height: 140%;
+    width: 500px;
+    margin-bottom: 30px;
+}
+
+.section-hero__subheading {
+    width: 800px;
+    line-height: 160%;
+    font-weight: 400;
+    color: #ffffff;
+}
+
 
 /* General section */
 
@@ -160,6 +174,31 @@ body {
     cursor: pointer;
     border-color: #e4b43c;
     background: #e4b43c;
+}
+
+
+/* FOOTER */
+
+.footer {
+    width: 100%;
+    padding: 40px 0;
+    background-color: #333333;
+    position: relative;
+}
+
+.footer__inside {
+    position: absolute;
+    margin: 0 auto;
+}
+
+.footer__inside-text {
+    color: #d0d0d0;
+    font-size: 14px;
+}
+
+.title {
+    margin-top: 100px;
+    text-align: center;
 }
 
 
