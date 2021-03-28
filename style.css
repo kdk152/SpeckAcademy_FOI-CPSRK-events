@@ -240,11 +240,10 @@ main {
 .footer__inside {
     position: absolute;
     margin: 0 auto;
-}
-
-.footer__inside-text {
     color: #d0d0d0;
     font-size: 14px;
+    text-align: center;
+    width: 100%;
 }
 
 .title {
